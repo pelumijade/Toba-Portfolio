@@ -1,0 +1,60 @@
+/*Normal*/
+.titleName{
+    margin-top: 3%;
+    text-decoration: none;
+    color:black;
+    font-size: 80px;
+    color:black;
+    font-family: pandana;
+
+}
+.menuList{
+    margin-top: 3%;
+    align-content: center;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+.myLinks{
+    text-decoration: none;
+    color: grey;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px; 
+}
+.myLinks:hover{
+    color: black;
+    text-decoration: none;
+    text-decoration: line-through;
+}
+.IconFacebook:hover{
+    color:  #4267B2;
+}
+.IconInsta:hover{
+    color: #fb3958;
+}
+.IconTwitter:hover{
+    color: #00acee;
+}
+.submit{
+    padding: 10px;
+    border: none;
+    outline: none;
+    float: right;
+    background-color: black;
+    color:white;
+    width: 100px;
+    height: 40px;
+    text-align: center;
+}
+.active{
+    color: black;
+    text-decoration: line-through;
+}
+li {
+ list-style-type: none;
+}
+
